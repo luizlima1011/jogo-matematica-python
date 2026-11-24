@@ -19,4 +19,4 @@ Projeto desenvolvido para unir conceitos de **Educação Matemática** e **Desen
 1. Certifique-se de ter o **Python 3** instalado em sua máquina.
 2. Baixe o arquivo `jogo_matematica.py` ou clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/jogo-matematica-python.git](https://github.com/SEU-USUARIO/jogo-matematica-python.git)
+   git clone [https://github.com/luizlima1011/jogo-matematica-python.git](https://github.com/luizlima1011/jogo-matematica-python.git)
